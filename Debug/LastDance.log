@@ -1,0 +1,11 @@
+﻿  MyForm3.cpp
+D:\VS_2019\LastDance\MyForm6.h(297,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS_2019\LastDance\MyForm6.h(325,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm6.cpp
+D:\VS_2019\LastDance\MyForm6.h(297,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS_2019\LastDance\MyForm6.h(325,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+D:\VS_2019\LastDance\MyForm3.h(316): warning C4715: LastDance::MyForm3::chekadm: значение возвращается не при всех путях выполнения
+D:\VS_2019\LastDance\MyForm3.h(316): warning C4715: LastDance::MyForm3::chekadm: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LastDance.vcxproj -> D:\VS_2019\LastDance\Debug\LastDance.exe

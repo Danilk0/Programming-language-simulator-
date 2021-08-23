@@ -1,0 +1,14 @@
+D:\VS_2019\LastDance\Debug\LastDance.vcxprojAssemblyReference.cache
+D:\VS_2019\LastDance\Debug\LastDance.MyForm.resources
+D:\VS_2019\LastDance\Debug\LastDance.vcxproj.GenerateResource.cache
+D:\VS_2019\LastDance\Debug\LastDance.exe
+D:\VS_2019\LastDance\Debug\LastDance.pdb
+D:\VS_2019\LastDance\Debug\LastDance.MyForm1.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm2.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm3.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm4.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm5.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm6.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm7.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm8.resources
+D:\VS_2019\LastDance\Debug\LastDance.MyForm9.resources
